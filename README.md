@@ -5,3 +5,4 @@ This application explain how we can easily integrate Deepface framework with Pyt
 # install requirement.txt 
 # run python manage.py runserver
 
+https://www.youtube.com/watch?v=qb9DDjFMAtA
